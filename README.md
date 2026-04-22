@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎯 Entry-level **Java Developer** with strong fundamentals in **Core Java, SQL, JDBC**
+- 🎯 Entry-level **Java Developer** with strong fundamentals in **Java, SQL, JDBC, Hibernate, SpringBoot**
 - 🏗️ Interested in building **secure, scalable, database-driven applications**
 - 🧠 Strong understanding of **OOPs, SDLC, and problem-solving**
 - 🚀 Actively looking for **Java Developer / SDE-1 opportunities**

@@ -2,7 +2,7 @@
 <h3 align="center">Java Developer | Software Engineer (Entry-Level)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;Java+%7C+JDBC+%7C+Hibernate+%7C+SpringBoot+%7C+SQL+%7C+Frontend;Building+Secure+Backend+Systems;Actively+Seeking+Java+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;Java+%7C+JDBC+%7C+Hibernate+%7C+SpringBoot+%7C+SQL;Building+Secure+Backend+Systems;Actively+Seeking+Java+Roles" />
 </p>
 
 ---
